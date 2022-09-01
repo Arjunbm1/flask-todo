@@ -1,1 +1,1 @@
-this is my first attempt to create todo app 
+this is a basic todo app
